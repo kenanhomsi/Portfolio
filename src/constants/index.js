@@ -5,6 +5,8 @@ import {
     web,
     javascript,
     smart,
+    gpt3,
+    responsive,
     typescript,
     mySql,
     c,
@@ -227,37 +229,37 @@ import {
       source_code_link: "https://kenanhomsi.github.io/Smart-home/",
     },
     {
-      name: "Job IT",
+      name: "gpt-3",
       description:
-        "Web application that enables users to search for job openings, view estimated salary ranges for positions, and locate available jobs based on their current location.",
+        "It is a site that shows the many and wonderful capabilities of the new gpt3 tools (especially building this site was a training on the basics of react )",
       tags: [
         {
           name: "react",
           color: "blue-text-gradient",
         },
         {
-          name: "restapi",
+          name: "css",
           color: "green-text-gradient",
         },
         {
-          name: "scss",
+          name: "js",
           color: "pink-text-gradient",
         },
       ],
-      image: jobit,
-      source_code_link: "https://github.com/",
+      image: gpt3,
+      source_code_link: "https://kenanhomsi.github.io/gpt3__react/",
     },
     {
-      name: "Trip Guide",
+      name: "CRUD project",
       description:
-        "A comprehensive travel booking platform that allows users to book flights, hotels, and rental cars, and offers curated recommendations for popular destinations.",
+        "A site that supports basic crud operations (creat, read, update, delete) as a simple program for a small shop that adds new items and deletes them and also calculates their prices with tax and offers.",
       tags: [
         {
-          name: "nextjs",
+          name: "js",
           color: "blue-text-gradient",
         },
         {
-          name: "supabase",
+          name: "html",
           color: "green-text-gradient",
         },
         {
@@ -266,7 +268,24 @@ import {
         },
       ],
       image: tripguide,
-      source_code_link: "https://github.com/",
+      source_code_link: "https://kenanhomsi.github.io/CRUDS_project/",
+    },
+    {
+      name: "responsive website",
+      description:
+        "simple website by html and css ,Shows deep knowledge of css ,responsive , flex , grid and all other concepts ",
+      tags: [
+        {
+          name: "html",
+          color: "green-text-gradient",
+        },
+        {
+          name: "css",
+          color: "pink-text-gradient",
+        },
+      ],
+      image: responsive,
+      source_code_link: "https://kenanhomsi.github.io/project3/",
     },
   ];
   

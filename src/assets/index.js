@@ -7,6 +7,7 @@ import github from "./github.png";
 import menu from "./menu.svg";
 import close from "./close.svg";
 import smart from "./smartHome.png" 
+import gpt3 from "./gpt3.png"
 
 import css from "./tech/css.png";
 import docker from "./tech/docker.png";
@@ -26,7 +27,7 @@ import c from './tech/c.png'
 import cs from './tech/cs.png'
 import mySql from './tech/mysql.png'
 import arduino from './tech/arduino.png' 
-
+import responsive from './responsive.png'
  
 import meta from "./company/meta.png";
 import shopify from "./company/shopify.png";
@@ -40,7 +41,9 @@ import tripguide from "./tripguide.png";
 export {
   c,
   smart,
+  gpt3,
   cs,
+  responsive,
   arduino,
   mySql,
   logo,
