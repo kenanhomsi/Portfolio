@@ -4,6 +4,7 @@ import {
     creator,
     web,
     javascript,
+    smart,
     typescript,
     mySql,
     c,
@@ -205,25 +206,25 @@ import {
   
   const projects = [
     {
-      name: "Car Rent",
+      name: "Smart home",
       description:
-        "Web-based platform that allows users to search, book, and manage car rentals from various providers, providing a convenient and efficient solution for transportation needs.",
+        "Web-based platform that allows users to control, and now all the sensor outputs and status ",
       tags: [
         {
-          name: "react",
+          name: "Arduino & esp",
           color: "blue-text-gradient",
         },
         {
-          name: "mongodb",
+          name: "html&css",
           color: "green-text-gradient",
         },
         {
-          name: "tailwind",
+          name: "js",
           color: "pink-text-gradient",
         },
       ],
-      image: carrent,
-      source_code_link: "https://github.com/",
+      image: smart,
+      source_code_link: "https://kenanhomsi.github.io/Smart-home/",
     },
     {
       name: "Job IT",
