@@ -28,6 +28,7 @@ import cs from './tech/cs.png'
 import mySql from './tech/mysql.png'
 import arduino from './tech/arduino.png' 
 import responsive from './responsive.png'
+import crud from './crud.png'
  
 import meta from "./company/meta.png";
 import shopify from "./company/shopify.png";
@@ -40,6 +41,7 @@ import tripguide from "./tripguide.png";
 
 export {
   c,
+  crud,
   smart,
   gpt3,
   cs,

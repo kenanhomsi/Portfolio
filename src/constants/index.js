@@ -7,6 +7,7 @@ import {
     smart,
     gpt3,
     responsive,
+    crud,
     typescript,
     mySql,
     c,
@@ -267,7 +268,7 @@ import {
           color: "pink-text-gradient",
         },
       ],
-      image: tripguide,
+      image: crud,
       source_code_link: "https://kenanhomsi.github.io/CRUDS_project/",
     },
     {
