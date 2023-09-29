@@ -1,4 +1,8 @@
 import {
+  fitnece_app,
+  Image_editor,
+  Ecommerce,
+  weather_app,
     mobile,
     backend,
     creator,
@@ -6,8 +10,6 @@ import {
     javascript,
     smart,
     gpt3,
-    responsive,
-    crud,
     typescript,
     mySql,
     c,
@@ -19,18 +21,12 @@ import {
     reactjs,
     redux,
     tailwind,
-    nodejs,
-    mongodb,
     git,
     figma,
-    docker,
     meta,
     starbucks,
     tesla,
     shopify,
-    carrent,
-    jobit,
-    tripguide,
     threejs,
   } from "../assets";
   
@@ -95,19 +91,22 @@ import {
       icon: cs,
     },
     {
+      name: "typescript",
+      icon:  typescript,
+    },{
       name: "React JS",
       icon: reactjs,
     },
     {
       name: "Tailwind CSS",
       icon: tailwind,
-    },
-    
-    {
+    },{
+      name: "redux",
+      icon: redux,
+    },{
       name: "mySql",
       icon: mySql,
-    },
-    {
+    },{
       name: "Three JS",
       icon: threejs,
     },
@@ -122,7 +121,7 @@ import {
     {
       name: "arduino",
       icon: arduino,
-    },
+    }
   ];
   
   const experiences = [
@@ -230,6 +229,68 @@ import {
       source_code_link: "https://kenanhomsi.github.io/Smart-home/",
     },
     {
+      name: "E-commerce project",
+      description:
+        "An e-commerce website allows the user to review and purchase products by adding them to the shopping cart and confirming the purchase at the end.",
+      tags: [
+        {
+          name: " React js",
+          color: "blue-text-gradient",
+        },
+        {
+          name: "ReduxToolkit",
+          color: "green-text-gradient",
+        },
+        {
+          name: "React routing",
+          color: "pink-text-gradient",
+        },
+        {
+          name: "BootStrap",
+          color: "pink-text-gradient",
+        },
+      ],
+      image: Ecommerce,
+      source_code_link: "https://kenanhomsi.github.io/E-commerce/",
+    },
+    {
+      name: "Image Editor project",
+      description:
+        "An online image editing site that allows you to modify images, such as cropping images, increasing brightness, and applying many filters.",
+      tags: [
+        {
+          name: " React js",
+          color: "blue-text-gradient",
+        },
+        {
+          name: "css",
+          color: "green-text-gradient",
+        },
+      ],
+      image: Image_editor,
+      source_code_link: "https://kenanhomsi.github.io/K-editor/",
+    },
+    {
+      name: "WeatherApp project",
+      description:
+        "A website that accurately displays the weather conditions at the current time and for a period of five days according to the name of the city.",
+      tags: [
+        {
+          name: " React js",
+          color: "blue-text-gradient",
+        },
+        {
+          name: "tailwindcss",
+          color: "green-text-gradient",
+        },
+        {
+          name: "openWeatherApi",
+          color: "red-text-gradient",
+        }
+      ],
+      image: weather_app,
+      source_code_link: "https://kenanhomsi.github.io/WeatherApp/",
+    },{
       name: "gpt-3",
       description:
         "It is a site that shows the many and wonderful capabilities of the new gpt3 tools (especially building this site was a training on the basics of react )",
@@ -249,44 +310,25 @@ import {
       ],
       image: gpt3,
       source_code_link: "https://kenanhomsi.github.io/gpt3__react/",
-    },
-    {
-      name: "CRUD project",
+    },{
+      name: "Fitness_Club website",
       description:
-        "A site that supports basic crud operations (creat, read, update, delete) as a simple program for a small shop that adds new items and deletes them and also calculates their prices with tax and offers.",
+        "A site that displays many exercises with the ability to search or customize a specific muscle, taken from the API.",
       tags: [
         {
-          name: "js",
-          color: "blue-text-gradient",
-        },
-        {
-          name: "html",
+          name: "Reactjs",
           color: "green-text-gradient",
         },
         {
           name: "css",
           color: "pink-text-gradient",
+        },{
+          name: "Api",
+          color: "red-text-gradient",
         },
       ],
-      image: crud,
-      source_code_link: "https://kenanhomsi.github.io/CRUDS_project/",
-    },
-    {
-      name: "responsive website",
-      description:
-        "simple website by html and css ,Shows deep knowledge of css ,responsive , flex , grid and all other concepts ",
-      tags: [
-        {
-          name: "html",
-          color: "green-text-gradient",
-        },
-        {
-          name: "css",
-          color: "pink-text-gradient",
-        },
-      ],
-      image: responsive,
-      source_code_link: "https://kenanhomsi.github.io/project3/",
+      image: fitnece_app,
+      source_code_link: "https://kenanhomsi.github.io/Fitness_Club/",
     },
   ];
   

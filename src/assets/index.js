@@ -8,6 +8,10 @@ import menu from "./menu.svg";
 import close from "./close.svg";
 import smart from "./smartHome.png" 
 import gpt3 from "./gpt3.png"
+import weather_app from './weather_app.png'
+import fitnece_app from './fitnace.png'
+import Image_editor from './image-editor.png'
+import Ecommerce from './E-commer.png'
 
 import css from "./tech/css.png";
 import docker from "./tech/docker.png";
@@ -40,6 +44,10 @@ import jobit from "./jobit.png";
 import tripguide from "./tripguide.png";
 
 export {
+  Image_editor,
+  fitnece_app,
+  Ecommerce,
+  weather_app,
   c,
   crud,
   smart,
