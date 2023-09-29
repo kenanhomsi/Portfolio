@@ -106,18 +106,16 @@ import {
     },{
       name: "mySql",
       icon: mySql,
-    },{
-      name: "Three JS",
-      icon: threejs,
     },
+    
     {
       name: "git",
       icon: git,
     },
-    {
-      name: "figma",
-      icon: figma,
-    },
+    // {
+    //   name: "figma",
+    //   icon: figma,
+    // },
     {
       name: "arduino",
       icon: arduino,
@@ -290,7 +288,8 @@ import {
       ],
       image: weather_app,
       source_code_link: "https://kenanhomsi.github.io/WeatherApp/",
-    },{
+    }
+      ,{
       name: "gpt-3",
       description:
         "It is a site that shows the many and wonderful capabilities of the new gpt3 tools (especially building this site was a training on the basics of react )",
@@ -310,7 +309,8 @@ import {
       ],
       image: gpt3,
       source_code_link: "https://kenanhomsi.github.io/gpt3__react/",
-    },{
+    },
+    {
       name: "Fitness_Club website",
       description:
         "A site that displays many exercises with the ability to search or customize a specific muscle, taken from the API.",
