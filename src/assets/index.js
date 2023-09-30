@@ -12,7 +12,7 @@ import weather_app from './weather_app.png'
 import fitnece_app from './fitnace.png'
 import Image_editor from './image-editor.png'
 import Ecommerce from './E-commer.png'
-
+import Mostaql from './company/Mostaql-Logo.png'
 import css from "./tech/css.png";
 import docker from "./tech/docker.png";
 import figma from "./tech/figma.png";
@@ -44,6 +44,7 @@ import jobit from "./jobit.png";
 import tripguide from "./tripguide.png";
 
 export {
+  Mostaql,
   Image_editor,
   fitnece_app,
   Ecommerce,

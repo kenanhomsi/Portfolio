@@ -1,4 +1,5 @@
 import {
+  Mostaql,
   fitnece_app,
   Image_editor,
   Ecommerce,
@@ -137,11 +138,11 @@ import {
       ],
     },
     {
-      title: "React Native Developer",
-      company_name: "Tesla",
-      icon: tesla,
+      title: "freelancer job",
+      company_name: "mostaql",
+      icon: Mostaql,
       iconBg: "#E6DEDD",
-      date: "Jan 2021 - Feb 2022",
+      date: " Sep 2023",
       points: [
         "Developing and maintaining web applications using React.js and other related technologies.",
         "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
@@ -149,41 +150,41 @@ import {
         "Participating in code reviews and providing constructive feedback to other developers.",
       ],
     },
-    {
-      title: "Web Developer",
-      company_name: "Shopify",
-      icon: shopify,
-      iconBg: "#383E56",
-      date: "Jan 2022 - Jan 2023",
-      points: [
-        "Developing and maintaining web applications using React.js and other related technologies.",
-        "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
-        "Implementing responsive design and ensuring cross-browser compatibility.",
-        "Participating in code reviews and providing constructive feedback to other developers.",
-      ],
-    },
-    {
-      title: "Full stack Developer",
-      company_name: "Meta",
-      icon: meta,
-      iconBg: "#E6DEDD",
-      date: "Jan 2023 - Present",
-      points: [
-        "Developing and maintaining web applications using React.js and other related technologies.",
-        "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
-        "Implementing responsive design and ensuring cross-browser compatibility.",
-        "Participating in code reviews and providing constructive feedback to other developers.",
-      ],
-    },
+    // {
+    //   title: "Web Developer",
+    //   company_name: "Shopify",
+    //   icon: shopify,
+    //   iconBg: "#383E56",
+    //   date: "Jan 2022 - Jan 2023",
+    //   points: [
+    //     "Developing and maintaining web applications using React.js and other related technologies.",
+    //     "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
+    //     "Implementing responsive design and ensuring cross-browser compatibility.",
+    //     "Participating in code reviews and providing constructive feedback to other developers.",
+    //   ],
+    // },
+    // {
+    //   title: "Full stack Developer",
+    //   company_name: "Meta",
+    //   icon: meta,
+    //   iconBg: "#E6DEDD",
+    //   date: "Jan 2023 - Present",
+    //   points: [
+    //     "Developing and maintaining web applications using React.js and other related technologies.",
+    //     "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
+    //     "Implementing responsive design and ensuring cross-browser compatibility.",
+    //     "Participating in code reviews and providing constructive feedback to other developers.",
+    //   ],
+    // },
   ];
   
   const testimonials = [
     {
       testimonial:
-        "I thought it was impossible to make a website as beautiful as our product, but Rick proved me wrong.",
-      name: "Sara Lee",
-      designation: "CFO",
-      company: "Acme Co",
+        "فنان بمجاله ومتعاون جدا",
+      name: "مارينا الحامد",
+      designation: "CMO",
+      company: "dkoomedia",
       image: "https://randomuser.me/api/portraits/women/4.jpg",
     },
     {
@@ -290,9 +291,9 @@ import {
       source_code_link: "https://kenanhomsi.github.io/WeatherApp/",
     }
       ,{
-      name: "gpt-3",
+      name: "Design and build a website",
       description:
-        "It is a site that shows the many and wonderful capabilities of the new gpt3 tools (especially building this site was a training on the basics of react )",
+        "تصميم موقع تعريفي احترافي لصالح شركة دكو ميديا السعودية على متجر سلة",
       tags: [
         {
           name: "react",
@@ -307,8 +308,8 @@ import {
           color: "pink-text-gradient",
         },
       ],
-      image: gpt3,
-      source_code_link: "https://kenanhomsi.github.io/gpt3__react/",
+      image:'https://mostaql.hsoubcdn.com/uploads/thumbnails/2695813/650ae63436a60/202309141735090000.png?s=medium',
+      source_code_link: "https://kenanhomsi.github.io/landing-page-mostaql/",
     },
     {
       name: "Fitness_Club website",
