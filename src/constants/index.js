@@ -53,16 +53,16 @@ import {
       icon: web,
     },
     {
-      title: "python Developer",
-      icon: mobile,
-    },
-    {
       title: "front_end Developer",
       icon: backend,
     },
     {
       title: "Arduino Developer",
       icon: creator,
+    },
+    {
+      title: "python Developer",
+      icon: mobile,
     },
   ];
   
@@ -125,19 +125,19 @@ import {
   ];
   
   const experiences = [
-    {
-      title: "React.js Developer",
-      company_name: "Starbucks",
-      icon: starbucks,
-      iconBg: "#383E56",
-      date: "March 2020 - April 2021",
-      points: [
-        "Developing and maintaining web applications using React.js and other related technologies.",
-        "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
-        "Implementing responsive design and ensuring cross-browser compatibility.",
-        "Participating in code reviews and providing constructive feedback to other developers.",
-      ],
-    },
+    // {
+    //   title: "React.js Developer",
+    //   company_name: "Starbucks",
+    //   icon: starbucks,
+    //   iconBg: "#383E56",
+    //   date: "March 2020 - April 2021",
+    //   points: [
+    //     "Developing and maintaining web applications using React.js and other related technologies.",
+    //     "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
+    //     "Implementing responsive design and ensuring cross-browser compatibility.",
+    //     "Participating in code reviews and providing constructive feedback to other developers.",
+    //   ],
+    // },
     {
       title: "freelancer job",
       company_name: "mostaql",
@@ -189,19 +189,20 @@ import {
       image: "https://randomuser.me/api/portraits/women/4.jpg",
     },
     {
-      testimonial:
-        "I've never met a web developer who truly cares about their clients' success like Rick does.",
-      name: "Chris Brown",
-      designation: "COO",
-      company: "DEF Corp",
+      testimonial:`انسان متميز ومحترف بعمله، طلبت الكثير من التعديلات وأتمها كلها بدون أي تأخير أو ملل.
+        شكرا أخي وأكيد لن يكون آخر تعامل، وأنصح كل شخص يحتاج إلى مبرمج متميز يتعامل معاه..`,
+      name: "Omar Emadi",
+      designation: "Senior Project Manager",
+      company: "mostaql",
       image: "https://randomuser.me/api/portraits/men/5.jpg",
     },
     {
       testimonial:
-        "After Rick optimized our website, our traffic increased by 50%. We can't thank them enough!",
-      name: "Lisa Wang",
-      designation: "CTO",
-      company: "456 Enterprises",
+        `مبدع ومتعاون
+        شكرًا لك أخوي محمد`,
+      name: "ابو فهد ",
+      designation: "Senior Project Manager",
+      company: " mostaql",
       image: "https://randomuser.me/api/portraits/women/6.jpg",
     },
   ];
