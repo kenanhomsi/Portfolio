@@ -1,4 +1,5 @@
 import logo from './logo.png';
+import musicPhoto from './music.png'
 import backend from "./backend.png";
 import creator from "./creator.png";
 import mobile from "./mobile.png";
@@ -50,6 +51,7 @@ export {
   fitnece_app,
   Ecommerce,
   weather_app,
+  musicPhoto,
   c,
   crud,
   smart,

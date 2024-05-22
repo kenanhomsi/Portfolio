@@ -5,6 +5,7 @@ import {
   Ecommerce,
   weather_app,
     mobile,
+    musicPhoto,
     backend,
     creator,
     web,
@@ -313,24 +314,18 @@ import {
       source_code_link: "https://kenanhomsi.github.io/landing-page-mostaql/",
     },
     {
-      name: "Fitness_Club website",
+      name: "challenges website  ",
       description:
-        "A site that displays many exercises with the ability to search or customize a specific muscle, taken from the API.",
+        "A website for sharing a number of challenges and games .",
       tags: [
         {
           name: "Reactjs",
           color: "green-text-gradient",
         },
-        {
-          name: "css",
-          color: "pink-text-gradient",
-        },{
-          name: "Api",
-          color: "red-text-gradient",
-        },
+        
       ],
-      image: fitnece_app,
-      source_code_link: "https://kenanhomsi.github.io/Fitness_Club/",
+      image: musicPhoto,
+      source_code_link: "https://kenanhomsi.github.io/Musical_ears/",
     },
   ];
   
