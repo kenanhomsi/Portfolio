@@ -40,7 +40,7 @@ const About = () => {
       <motion.p viewport={fadeIn("","",0.1,1)}
       className="mt-4 text-secondary text-[17px] max-w-3xl leading-[30px]">
       I,m a skilld software developer with experience in c++ ,c#,python and javaScript
-      , and expertise in React and three.js ,and also in arduino.
+      , and expertise in React,Node.js,Express and mongoDB  ,and also in arduino.
       I,m a quick learner and collaborate closely with clients to create
       efficent , scalable ,and user-frindly solutions that solve real-world problems
       .lets work togethor to bring your ideas to life ! 

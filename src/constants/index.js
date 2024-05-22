@@ -23,6 +23,7 @@ import {
     redux,
     tailwind,
     git,
+    blog,
     figma,
     meta,
     starbucks,
@@ -48,7 +49,7 @@ import {
   
   const services = [
     {
-      title: "c#,c++ Developer",
+      title: "back-end Developer",
       icon: web,
     },
     {
@@ -216,11 +217,11 @@ import {
           color: "blue-text-gradient",
         },
         {
-          name: "html&css",
+          name: "html&css&js",
           color: "green-text-gradient",
         },
         {
-          name: "js",
+          name: "nodejs & express & mongoDB",
           color: "pink-text-gradient",
         },
       ],
@@ -270,25 +271,24 @@ import {
       source_code_link: "https://kenanhomsi.github.io/K-editor/",
     },
     {
-      name: "WeatherApp project",
-      description:
-        "A website that accurately displays the weather conditions at the current time and for a period of five days according to the name of the city.",
+      name: "Blog project",
+      description:`A  blog to display articles and the ability to like or write a comment for those who log in either by entering an email  or via Google, with a dashboard to control the blog.`,
       tags: [
         {
-          name: " React js",
-          color: "blue-text-gradient",
-        },
-        {
-          name: "tailwindcss",
+          name: "Node.js & Express & MongoDB",
           color: "green-text-gradient",
         },
         {
-          name: "openWeatherApi",
+          name: " React.js & tailwindcss",
+          color: "blue-text-gradient",
+        },
+        {
+          name: "GoogleAuth",
           color: "red-text-gradient",
         }
       ],
-      image: weather_app,
-      source_code_link: "https://kenanhomsi.github.io/WeatherApp/",
+      image: blog,
+      source_code_link: "https://mern-blog-lteh.onrender.com/",
     }
       ,{
       name: "Design and build a website",
