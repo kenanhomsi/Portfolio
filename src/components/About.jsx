@@ -39,11 +39,8 @@ const About = () => {
       </motion.div>
       <motion.p viewport={fadeIn("","",0.1,1)}
       className="mt-4 text-secondary text-[17px] max-w-3xl leading-[30px]">
-      I,m a skilld software developer with experience in c++ ,c#,python and javaScript
-      , and expertise in React,Node.js,Express and mongoDB  ,and also in arduino.
-      I,m a quick learner and collaborate closely with clients to create
-      efficent , scalable ,and user-frindly solutions that solve real-world problems
-      .lets work togethor to bring your ideas to life ! 
+      I am a Full Stack Developer with specialized expertise in React Js ,Next js, Node.js, Express.js, and MongoDB.
+      In addition to my full stack development skills, I have extensive experience with C++ and Arduino for hardware projects. Known for being a quick learner, I am adept at rapidly adapting to new technologies and methodologies. I collaborate closely with clients to deliver efficient, scalable, and user-friendly solutions that address real-world challenges. Let's work together to bring your ideas to life.
       </motion.p>
       <div className="mt-20 flex flex-wrap gap-10">
 
