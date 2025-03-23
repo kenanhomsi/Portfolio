@@ -309,7 +309,7 @@ const projects = [
   },
   {
     name: "chat app /website  ",
-    description: "A caht app to contact with other people are using the app .",
+    description: "A caht app to contact with other people are using the app.",
     tags: [
       {
         name: "Reactjs",
